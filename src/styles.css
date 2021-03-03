@@ -1,0 +1,25 @@
+body {
+  background-color: white;
+}
+.container {
+  display: block;
+  width: 500px;
+  margin-right: auto;
+  margin-left: auto;
+}
+.btn {
+  margin-right: 30px;
+  width: 200px;
+  height: 60px;
+  color: white;
+  font-size: 30px;
+  background: linear-gradient(
+    to right,
+    orange,
+    yellow,
+    green,
+    cyan,
+    blue,
+    violet
+  );
+}
